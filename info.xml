@@ -10,7 +10,7 @@
   </maintainer>
   <urls>
     <url desc="Main Extension Page">https://github.com/fuzionnz/nz.co.fuzion.emailprofile</url>
-    <url desc="Documentation"></url>
+    <url desc="Documentation"/>
     <url desc="Support">https://www.fuzion.co.nz/</url>
     <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
   </urls>
@@ -22,5 +22,6 @@
   </compatibility>
   <civix>
     <namespace>CRM/Emailprofile</namespace>
+    <format>22.05.2</format>
   </civix>
 </extension>
